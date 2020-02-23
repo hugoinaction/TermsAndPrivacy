@@ -13,7 +13,7 @@ module:
 params:
   TermsAndPrivacy:
     company_name: <Your company>
-    company_email: <contact email for your company>
+    contact_email: <contact email for your company>
     website: <Website URL>
     contact_dpo_email: <Data Protection Officer Email>
     contact_dpo_phone: <Data Protection Officer Phone number>
