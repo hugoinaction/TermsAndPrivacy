@@ -9,7 +9,7 @@ Usage
 # In your config.yaml
 module:
   imports:
-    path: github.com/hugoinaction/TermsAndPrivacy
+    - path: github.com/hugoinaction/TermsAndPrivacy
 params:
   TermsAndPrivacy:
     company_name: <Your company>
